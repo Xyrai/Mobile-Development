@@ -1,0 +1,42 @@
+[submodule "HvAQuest"]
+	path = HvAQuest
+	url = https://github.com/Xyrai/HvAQuest
+[submodule "Reminder"]
+	path = Reminder
+	url = https://github.com/Xyrai/Reminder
+[submodule "Higher-Lower"]
+	path = Higher-Lower
+	url = https://github.com/Xyrai/Higher-Lower
+[submodule "PictureQuiz"]
+	path = PictureQuiz
+	url = https://github.com/Xyrai/PictureQuiz
+[submodule "Places-Of-Interest"]
+	path = Places-Of-Interest
+	url = https://github.com/Xyrai/Places-Of-Interest
+[submodule "Logica"]
+	path = Logica
+	url = https://github.com/Xyrai/Logica
+[submodule "SwipeQuiz"]
+	path = SwipeQuiz
+	url = https://github.com/Xyrai/SwipeQuiz
+[submodule "Reminderv2"]
+	path = Reminderv2
+	url = https://github.com/Xyrai/Reminderv2
+[submodule "User-Profile"]
+	path = User-Profile
+	url = https://github.com/Xyrai/User-Profile
+[submodule "ShoppingList"]
+	path = ShoppingList
+	url = https://github.com/Xyrai/ShoppingList
+[submodule "StudentPortal"]
+	path = StudentPortal
+	url = https://github.com/Xyrai/StudentPortal
+[submodule "RockPaperScissors"]
+	path = RockPaperScissors
+	url = https://github.com/Xyrai/RockPaperScissors
+[submodule "GameBacklog"]
+	path = GameBacklog
+	url = https://github.com/Xyrai/GameBacklog
+[submodule "PopularMovies"]
+	path = PopularMovies
+	url = https://github.com/Xyrai/PopularMovies
